@@ -20,7 +20,7 @@ Open an issue and attach the screenshot(s) to be resized and cropped.
 Open a pull request with resized and cropped map image(s) in resolution 480x200.  
 **Note:** If the image is a stock map place it in the `stock` folder, all other images are placed in the `custom` folder.
 
-## Games
+# Games
 
 - Call of Duty 1
 - Call of Duty: United Offensive
