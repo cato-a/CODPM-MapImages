@@ -1,0 +1,43 @@
+{
+    "cod1+coduo": {
+        "de_dust02_night": [
+            "de_dust2_night"
+        ],
+        "wawa_3daim": [
+            "wawa_3daim_american",
+            "wawa_3daim_british",
+            "wawa_3daim_russian"
+        ],
+        "fm_squishydeath": [
+            "fm_squishydeath_easy",
+            "fm_squishydeath_hard"
+        ],
+        "jm_sydneyharbour": [
+            "jm_sydneyharbour_easy",
+            "jm_sydneyharbour_hard"
+        ],
+        "mazeofdeath": [
+            "mazeofdeath_easy",
+            "mazeofdeath_hard",
+            "mazeofdeath_vhard"
+        ],
+        "nm_toybox": [
+            "nm_toybox_easy",
+            "nm_toybox_hard"
+        ],
+        "railyard_jump": [
+            "railyard_jump_hard",
+            "railyard_jump_light",
+            "railyard_jump_ultra"
+        ],
+        "skratch": [
+            "skratch_easy_v2",
+            "skratch_hard_v2",
+            "skratch_medium_v2"
+        ],
+        "jm_caramba": [
+            "jm_caramba_easy",
+            "jm_caramba_hard"
+        ]
+    }
+}
