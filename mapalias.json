@@ -38,6 +38,9 @@
         "jm_caramba": [
             "jm_caramba_easy",
             "jm_caramba_hard"
+        ],
+        "mp_carentan": [
+            "mp_uo_carentan"
         ]
     }
 }
