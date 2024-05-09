@@ -41,6 +41,23 @@
         ],
         "mp_carentan": [
             "mp_uo_carentan"
+        ],
+        "mp_dawnville": [
+            "mp_uo_dawnville"
+        ],
+        "mp_depot": [
+            "mp_uo_depot"
+        ],
+        "mp_hurtgen": [
+            "mp_uo_hurtgen"
+        ],
+        "mp_powcamp": [
+            "mp_uo_powcamp"
+        ],
+        "sadrcity": [
+            "mp_sadrcity",
+            "sadr_city",
+            "rev_sadrcity_uo"
         ]
     }
 }
