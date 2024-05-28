@@ -58,6 +58,12 @@
             "mp_sadrcity",
             "sadr_city",
             "rev_sadrcity_uo"
+        ],
+        "moh_stalingrad": [
+            "moh_stalingrad_r"
+        ],
+        "moh_stalingrad_n": [
+            "moh_stalingrad_rn"
         ]
     }
 }
