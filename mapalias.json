@@ -67,6 +67,15 @@
         ],
         "mice": [
             "mice_v2"
+        ],
+        "mp_pavlov": [
+            "uo_pavlov_ctf"
+        ],
+        "mp_neuville": [
+            "uo_neuville_ctf"
+        ],
+        "mp_tigertown": [
+            "uo_tigertown_ctf"
         ]
     }
 }
