@@ -76,6 +76,14 @@
         ],
         "mp_tigertown": [
             "uo_tigertown_ctf"
+        ],
+        "fun_iceworld": [
+            "fun_iceworld_am",
+            "fun_iceworld_br",
+            "fun_iceworld_ru"
+        ],
+        "mp_wreck": [
+            "mp_wreck2"
         ]
     }
 }
