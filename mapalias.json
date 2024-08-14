@@ -84,6 +84,22 @@
         ],
         "mp_wreck": [
             "mp_wreck2"
+        ],
+        "ghosttown": [
+            "ghosttown_zheck"
+        ],
+        "project": [
+            "project-v2"
+        ],
+        "st-ettiene": [
+            "[vs-uk]st-ettiene"
+        ],
+        "mp_ranville_final": [
+            "mp_ranville"
+        ],
+        "the_rock_final": [
+            "the_rock",
+            "therock_daylight"
         ]
     }
 }
