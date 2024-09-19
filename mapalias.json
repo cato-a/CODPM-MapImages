@@ -100,6 +100,9 @@
         "the_rock_final": [
             "the_rock",
             "therock_daylight"
+        ],
+        "mp_harbor_extreme": [
+            "mp_harbor(extreme)"
         ]
     }
 }
