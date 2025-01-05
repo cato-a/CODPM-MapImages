@@ -103,6 +103,9 @@
         ],
         "mp_harbor_extreme": [
             "mp_harbor(extreme)"
+        ],
+        "ramadi": [
+            "rev_ramadi_uo"
         ]
     }
 }
